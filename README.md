@@ -17,4 +17,4 @@ I've tried to submit it to the marketplace for free but it has been rejected, so
 Which engine versions supported?
 ===================
 
-Currently tested Unreal Engine version is **4.15**
+Current Unreal Engine version: **4.16**
