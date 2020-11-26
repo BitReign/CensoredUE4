@@ -1,6 +1,6 @@
 Censored for Unreal Engine
 ===================
-![enter image description here](http://public.sumfx.net/i/assets/censored_github_1.jpg)
+![enter image description here](https://sumfx.net/wp-content/uploads/2018/10/censored_github_1.jpg)
 
 What is it?
 ===================
